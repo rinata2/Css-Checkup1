@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.font {
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+#id {
+    font-style: italic;
+    text-align: center;
+
+}
+form {
+    border: black solid, paddding:"400px",
+    margin:"5oopx";
+}
+
+button {
+color: blue;
+}
+
+button a:hover {
+color: red;
+}
+
